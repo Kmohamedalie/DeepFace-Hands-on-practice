@@ -1,1 +1,1 @@
-# DeepFace-Hands-on-practice
+# DeepFace Hands on practice
